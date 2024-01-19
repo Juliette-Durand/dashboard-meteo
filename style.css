@@ -112,10 +112,6 @@ img {
     height: 80%;
 }
 
-progress {
-    color: #15fc71;
-}
-
 #sunrise, #sunset {
     border-bottom: 2px var(--h2Color) solid;
 }
